@@ -11,8 +11,10 @@ Chỉ cần nhập link của bài báo thể thao chuyển nhượng tiếng vi
 
 (Chỉ mới hỗ trợ bongda.com.vn, https://vnexpress.net, https://vietnamnet.vn/, các trang khác vui lòng nhập nội dung thủ công)
 
+ Streamlit run app.py
 
---- Streamlit run app.py
+ -------------------------------------------------------------------------------------------
+ 
 
 gcloud builds submit --tag gcr.io/duancntt-415907/streamlit  --project=duancntt-415907
 
