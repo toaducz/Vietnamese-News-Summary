@@ -1,5 +1,7 @@
 Trang web tóm tắt bản tin thể thao chuyển nhượng tiếng việt, dataset được lấy từ ngày 30/12/2023 trở về trước
 
+Link: https://duancntt.streamlit.app/ (Dead)
+
 Chỉ cần nhập link của bài báo thể thao chuyển nhượng tiếng việt vào khung, trang web sẽ trả về bản tóm tắt và cố gắng giữ lại các tiêu chí sau:
 
 -	cầu thủ
